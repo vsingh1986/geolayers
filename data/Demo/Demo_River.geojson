@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demo River",
+        "category": "Demo",
+        "description": "Synthetic line for testing the GEOlayers GitHub Browser."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.6,
+            30.9
+          ],
+          [
+            78,
+            30.5
+          ],
+          [
+            78.5,
+            30.1
+          ]
+        ]
+      }
+    }
+  ]
+}
