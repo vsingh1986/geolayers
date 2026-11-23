@@ -1,0 +1,12 @@
+# Do not commit giant GIS source files or generated local reports
+*.mbtiles
+*.pmtiles
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+reports/
+.venv/
+__pycache__/
+*.zip
