@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demo Mountain",
+        "category": "Demo",
+        "description": "Synthetic point for testing the GEOlayers GitHub Browser."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96,
+          30.32
+        ]
+      }
+    }
+  ]
+}
